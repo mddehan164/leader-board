@@ -1,0 +1,77 @@
+body{
+    background-color: #f3f1ff !important;
+}
+.bg-nav{
+    background-color: #562eff;
+}
+.nav-space{
+    margin: 0 15% !important;
+}
+.child{
+    margin-right: 56px;
+}
+.bg-white{
+    padding: 2% 0;
+    margin-bottom: 2%;
+}
+.top-head{
+    padding: 2%;
+    color: #633eff;
+}
+.player-row img{
+    width: 56px;
+    margin: 10px 15px;
+}
+.player-row p{
+    padding-top: 25px;
+}
+.part-2 img{
+    width: 177px;
+}
+.part-2 .row{
+    margin: 20px 0 ;
+}
+.top-type{
+    margin-left: 15px;
+}
+.top-type h5{
+    line-height: 32px;
+}
+.top-type p{
+    font-weight: 500;
+}
+span{
+    color: #633eff;
+}
+.sec-2 img{
+    width: 350px;
+}
+.c-body{
+    width: 400px;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+.card{
+    width: 350px;
+}
+.star{
+    width: 100px;
+    height: 20px;
+    margin-top: 8px;
+}
+.star img{
+    width: 100%;
+    margin-left: 5px;
+}
+.btn-sec{
+    width: 110px;
+    height: 40px;
+    background-color: #FFE4E8;
+    border-radius: 20px;
+}
+.btn{
+    border: none;
+}
+.blog-f p{
+    margin-top: 8px;
+}
